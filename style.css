@@ -1,0 +1,87 @@
+.spaan{
+    background-color: yellow;
+}
+h1{
+    background-color: aqua;
+    text-align: center;
+    border-radius: 38px;
+    border-color: red;
+} 
+.spann{
+color: red;
+}
+h2{
+    background-color: yellow;
+    color: green;
+    text-align: center;
+}
+img{
+    width: 400px; ;
+    height:300px; ;
+}
+div{
+    text-align:center ;
+}
+h4{
+    background-color: yellow;
+    color: green;
+    text-align: center; 
+}
+.divv{
+    background-color: black;
+}
+label{
+    color: green;
+}
+.labeli{
+ color: black;   
+}
+p{
+    color: green;
+    background-color: yellow;
+    text-align: center;
+}
+table,
+thead,
+tr,
+tbody,
+th,
+td{
+    border: 1px solid white;
+    border-collapse: collapse; 
+}
+.thh{
+    color: white;
+    background-color: green;
+}
+th{
+    background-color: red;
+    color: white;
+}
+.tdd{
+    background-color: blue;
+    color: ;
+}
+td{
+    color: white;
+    background-color: black;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
